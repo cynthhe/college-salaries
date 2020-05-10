@@ -1,1 +1,1 @@
-# college-salaries
+# College Salaries
